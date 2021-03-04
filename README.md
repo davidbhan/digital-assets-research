@@ -60,12 +60,7 @@ This is a compilation of the weekly research and discussions on various aspects 
 - Injective (INJ)
 - Mirror (MIR)
 
-### Other Core Concepts
-
-#### Week 7: Oracles
-- Chainlink (LINK)
-
-#### Week 8: Non Fungible Tokens (NFTs)
+#### Week 7: Non Fungible Tokens (NFTs)
 - ERC-721
 - ERC-1155
 - Cryptokitties
@@ -76,6 +71,7 @@ This is a compilation of the weekly research and discussions on various aspects 
 #### General Ideas
 - How To Start Investing in Crypto? (CEX --> Cold Wallet / Metamask --> DEX)
 - Layer 2 scaling (Lightning Network, Loopring, OMG Network)
+- Oracles (Chainlink)
 - Privacy Coins (Monero, ZCash, Beam, Grin, PIVX, Bitcoin Cash - Cash Fusion)
 
 #### Specific Cryptocurrencies
